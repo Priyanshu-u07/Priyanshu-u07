@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I'm Priyanshu Kumar
+
+🎓 CSE (Artificial Intelligence & Machine Learning) student  
+🌱 Open-source contributor  
+🚀 Interested in ML Systems, MLOps, and cloud-native tools
 
 <!--
 **Priyanshu-u07/Priyanshu-u07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
