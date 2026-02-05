@@ -8,6 +8,8 @@
 🌱 Open-source contributor  
 🚀 Interested in ML Systems, MLOps, and Cloud-Native Tools
 
+<br/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Priyanshu-u07&label=Profile%20views&color=0e75b6&style=flat"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,18 +24,34 @@
 </a>
 </p>
 
-### 🧠 What I’m Working On
-- Learning ML systems beyond notebook-based workflows
-- Exploring scalable ML pipelines and orchestration
-- Studying experimentation and model lifecycle practices
-- Understanding cloud-native approaches for ML systems
+<br/>
 
-- ### 🛠️ Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,typescript,linux,git,github,docker,kubernetes,aws" />
-</p>
+<table>
+<tr>
 
-<p align="right">
-  <img src="image.png" width="450"/>
-</p>
+<td width="60%" valign="top">
+
+<h3>🧠 What I’m Working On</h3>
+
+- Learning ML systems beyond notebook-based workflows  
+- Exploring scalable ML pipelines and orchestration  
+- Studying experimentation and model lifecycle practices  
+- Understanding cloud-native approaches for ML systems  
+
+<h3>🛠️ Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=python,c,typescript,linux,git,github,docker,kubernetes,aws" />
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="image.png" width="420" />
+
+</td>
+
+</tr>
+</table>
+
+
 
