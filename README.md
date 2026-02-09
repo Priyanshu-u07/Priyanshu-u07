@@ -53,7 +53,7 @@
 <h3>🛠️ Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,typescript,linux,git,github,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,typescript,linux,git,github,docker,kubernetes,aws" />
 </p>
 
 </div>
